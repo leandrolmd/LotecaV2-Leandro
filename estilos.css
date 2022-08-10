@@ -1,0 +1,27 @@
+h1 {
+    font-size: 7em;
+    color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.alinhar {
+    text-align: center;
+}
+
+input {
+    width: 3em;
+    height: 3em;
+    font-size: medium;
+    padding: 0px;
+    font-weight: bold;
+    border: green solid 2px;
+}
