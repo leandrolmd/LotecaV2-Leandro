@@ -1,45 +1,45 @@
 * {
-    margin: 0;
-  }
-  
-  h1 {
-    font-size: 6em;
-    color: #10be00;
-    font-family: serif;
-    font-style: italic;
-    text-align: center;
-    margin: 50px 0;
-  }
-  
-  .inputs{
-    /* para centralizar elementos */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 50px 0;
-  }
-  
-  input {
-    width: 3em;
-    height: 3em;
-    font-size: 2em;
-    padding: 0;
-    font-weight: bold;
-    border: rgb(30, 228, 4) solid 2px;
-  }
-  
-  .centerdiv{
-    text-align: center;
-    margin: 30px;
-  }
-  .geral {
-    height: calc(100vh - 210.4px - 118.4px);
-  }
-  
-  footer{
-    background-color: black;
-    color: whitesmoke;
-    padding: 50px;
-    margin:0px;
-  }
+  margin: 0;
+}
+
+h1 {
+  font-size: 6em;
+  color: #10be00;
+  font-family: serif;
+  font-style: italic;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.inputs{
+  /* para centralizar elementos */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+input {
+  width: 3em;
+  height: 3em;
+  font-size: 2em;
+  padding: 0;
+  font-weight: bold;
+  border: rgb(30, 228, 4) solid 2px;
+}
+
+.centerdiv{
+  text-align: center;
+  margin: 30px;
+}
+.geral {
+  height: calc(100vh - 210.4px - 118.4px);
+}
+
+footer{
+  background-color: rgb(51, 221, 209);
+  color: rgb(3, 3, 3);
+  padding: 50px;
+  margin:0px;
+}
