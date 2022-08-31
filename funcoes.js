@@ -29,4 +29,7 @@ function lerNumero(value, pos){
 
 }
 
+function contarAcertos(){
+  
+}
 
