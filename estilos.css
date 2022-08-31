@@ -11,7 +11,7 @@ h1 {
   margin: 50px 0;
 }
 
-.inputs{
+.inputs {
   /* para centralizar elementos */
   display: flex;
   flex-direction: column;
@@ -29,17 +29,18 @@ input {
   border: rgb(30, 228, 4) solid 2px;
 }
 
-.centerdiv{
+.centerdiv {
   text-align: center;
   margin: 30px;
 }
-.geral {
-  height: calc(100vh - 210.4px - 118.4px);
+
+.geral{
+  height: calc(100vh - 211px - 58px);
 }
 
-footer{
-  background-color: rgb(51, 221, 209);
-  color: rgb(3, 3, 3);
-  padding: 50px;
-  margin:0px;
+footer {
+  background-color: green;
+  color: whitesmoke;
+  padding: 20px;
+  margin: 0px;
 }
